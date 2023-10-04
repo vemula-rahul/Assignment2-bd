@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "Crime",
+        "average_rating": 9.05
+    },
+    {
+        "_id": "Action",
+        "average_rating": 9.0
+    },
+    {
+        "_id": "Drama",
+        "average_rating": 8.966666666666667
+    },
+    {
+        "_id": "Biography",
+        "average_rating": 8.9
+    },
+    {
+        "_id": "Adventure",
+        "average_rating": 8.8
+    },
+    {
+        "_id": "Sci-Fi",
+        "average_rating": 8.35
+    }
+]
